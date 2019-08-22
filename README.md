@@ -1,4 +1,4 @@
-# Coding Interview University
+﻿# Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
@@ -195,7 +195,7 @@ thousands of associative arrays, but I've never created data structures from scr
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
+[x] ## How to use it
 
 <details>
 <summary>How to use it</summary>
